@@ -5,7 +5,7 @@ For input 2, output should be “February”.
 For input 6, output should be “June”.
 For input 13, output should be “Input must be a number between 1 and 12”.*/
 
-var month = 13; // vaule from 1 to 7
+var month = 13;
 
 switch (month) {
   case 1:
