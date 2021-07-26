@@ -1,0 +1,3 @@
+
+In this Fetch, we are using some text from file .txt to be upload to the Concole in String. 
+using the text() method. 
