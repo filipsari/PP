@@ -1,0 +1,22 @@
+
+{
+  "people" : [
+
+    {
+      "name" : "Frederic",
+      "age" : 25,
+      "country" : "Denmark"
+    },
+
+    {
+      "name" : "Ann",
+      "age" : 32,
+      "country" : "England"
+    }, 
+    {
+      "name": "Ricardo",
+      "age" : 21,
+      "country" : "Portugal"
+    }
+]
+}
