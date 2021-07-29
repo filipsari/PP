@@ -1,0 +1,30 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("https://i.pinimg.com/originals/d3/3f/2f/d33f2fdd4598142383ea3d678986068e.jpg");
+  /* background-repeat:round; */
+  /* background-size: 100%; */
+}
+
+
+
+h2{
+  font-size: 45px;
+  color: aqua;
+}
+
+image{
+  font-size: large;
+  width: 55px;
+  height: auto;
+}
+
+
+
+
+

@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("https://images.hdqwalls.com/wallpapers/rick-and-morty-uy.jpg");
+  background-repeat:round;
+  /* background-size: 100%; */
+}
+
+h1{
+  color: rgb(249, 253, 10);
+  font-size: 45px;
+  background-color: lightblue;
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+
+  .container{
+    display: block;
+    /* background-color: rgb(250, 211, 137) */
+  }
+
+  .single_div{
+    width: 23%;
+    display: inline-block;
+    margin: 18px 10px;
+    border: 0.5px dotted rgb(240, 11, 11);
+    text-align: center; 
+    background-color: rgb(228, 224, 224);
+  }
+
+ 
+
+  .image{
+    margin: 0 auto;
+  }
+
+  .characterName{ 
+    display: block;
+    font-size: 25px;
+    color: red;
+    text-align: center;
+  } 
+
+
+@media only screen and (max-width: 1233px) {
+  .single_div {
+    width: 28%;
+    display: inline-block;
+    margin: 18px 10px;
+    border: 0.5px dotted rgb(240, 11, 11);
+    text-align: center; 
+    background-color: rgb(228, 224, 224);
+  }
+}
+
+@media only screen and (max-width: 1093px) {
+  .single_div {
+    width: 45%;
+    display: inline-block;
+    margin: 18px 10px;
+    border: 0.5px dotted rgb(240, 11, 11);
+    text-align: center; 
+    background-color: rgb(228, 224, 224);
+  }
+}
+
+@media only screen and (max-width: 675px) {
+  .single_div {
+    width: 80%;
+    display: inline-block;
+    margin: 18px 10px;
+    border: 0.5px dotted rgb(240, 11, 11);
+    text-align: center; 
+    background-color: rgb(228, 224, 224);
+  }
+}
