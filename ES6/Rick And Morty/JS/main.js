@@ -35,7 +35,7 @@ fetch("https://rickandmortyapi.com/api/character").then(function(response){
   })
 
 
-  myFunction();
+  // myFunction();
 
   let divs = document.querySelectorAll(".single_div");
 
